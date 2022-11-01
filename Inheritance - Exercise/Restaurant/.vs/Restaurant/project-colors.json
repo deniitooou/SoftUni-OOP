@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a09d0e8-5670-4713-97ad-6d4dadf12fdb": {
+      "ProjectGuid": "9a09d0e8-5670-4713-97ad-6d4dadf12fdb",
+      "DisplayName": "Restaurant",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
